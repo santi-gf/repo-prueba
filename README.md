@@ -6,3 +6,8 @@ Comentarios de hoy:
 
 - [Windows Terminal](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/)
 - Red Hat has new logo!
+
+
+# Install
+
+Here's how to install my awesome program...
